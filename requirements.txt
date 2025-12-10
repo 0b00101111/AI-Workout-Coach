@@ -1,0 +1,5 @@
+tensorflow-macos==2.15.0; sys_platform == 'darwin'
+tensorflow==2.15.0; sys_platform != 'darwin'
+mediapipe
+opencv-python
+numpy<2
